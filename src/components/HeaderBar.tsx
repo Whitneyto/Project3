@@ -1,6 +1,6 @@
 
 import logo from '../assets/imgs/logo.png';
-import '../App.css';
+import '../assets/stylesheet/header.css';
 
 export function HeaderBar(): JSX.Element {
     return <div>
