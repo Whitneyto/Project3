@@ -1,0 +1,60 @@
+.calculator{
+    display: inline-flex;
+    align-self: center;
+}
+.box-container{
+    border: 2px solid black;
+    border-radius: 10%;
+    width: 25em;
+    height: 30em;
+    display:flex;
+    flex-direction: column;
+}
+.ans-screen{
+    align-self: center;
+    width: 20em;
+    height: 7em;
+    margin: 1.3em 1.3em;
+    border-radius: 20%;
+    border: 1px solid black;
+}
+.your-input{
+
+}
+.ans{
+
+}
+.button-area{
+    align-self: center;
+    width: 20em;
+    height: 19em;
+    border-radius: 5%;
+    border: 1px solid black;
+    display: inline-flex;
+}
+.numkey{
+    margin: 0.5em;
+    width: 80%;
+}
+.operation-key{
+    margin: 0.5em 0.5em 0.5em 0em;
+    display: inline-flex;
+    flex-direction: column;
+}
+.numkey-row > button{
+    font-weight: bold;
+    margin: 0.2em;
+    width: 4em;
+    height: 4em;
+    border-radius: 10%;
+}
+.operation-key>button{
+    font-weight: bold;
+    margin: 0.2em 0.2em;
+    width: 3.5em;
+    height: 3.1em;
+    border-radius: 10%;
+}
+.numkey-row > .button0 {
+    width: 8.4em;
+}
