@@ -2,55 +2,7 @@
   text-align: center;
 }
 
-.header-1 {
-  margin-top: 3em;
-  margin-bottom: 1em;
-}
 
-.navbar-brand >img {
-  float:left;
-  height:50px;
-  width:50px;
-}
-
-.quote-area {
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 20px;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  background-color: rgb(235, 235, 235);
-  height: 20em;
-  width: 50em;
-}
-
-.quote-area > .auth{
-  display: flex;
-  justify-content: flex-end;
-  margin-right: 3em;
-  font-size: 1.2em;
-  margin-top: 1em;
-  font-style: italic;
-}
-
-.quote-area > .qte {
-  font-style: italic;
-  font-size: 1.8em;
-  margin-left: 1em;
-  margin-right: 1em;
-}
-
-.quote-change{
-  margin-top: 1em;
-  background-color: grey;
-}
-
-.description{
-  font-size: 1.8em;
-  margin-left: 4em;
-  margin-right: 4em;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
