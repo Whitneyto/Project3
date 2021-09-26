@@ -31,7 +31,7 @@ export function Calculator(): JSX.Element {
             </div>
             <div className="numkey-row">
               <button className="button0">0</button>
-              <button>AC</button>
+              <button onClick = {()=>console.log('AC button clicked!')}>AC</button>
             </div>
           </div>
 
