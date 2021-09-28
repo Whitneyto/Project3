@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import { HeaderBar } from './components/HeaderBar';
 import { FooterBar } from './components/FooterBar';
