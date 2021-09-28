@@ -1,4 +1,9 @@
+.body1{
+    background-image: URL("../imgs/math.png");
+}
+
 .calculator{
+    margin: 4em;
     display: inline-flex;
     align-self: center;
 }
