@@ -8,6 +8,12 @@
   font-size: 50px;
 }
 
+.description{
+  font-size: 1.8em;
+  margin-left: 4em;
+  margin-right: 4em;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
