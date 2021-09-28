@@ -17,15 +17,15 @@
     width: 20em;
     height: 7em;
     margin: 1.3em 1.3em;
-    border-radius: 20%;
+    border-radius: 15%;
     border: 1px solid black;
+    display:block;
+    
 }
 .your-input{
-
+    margin: 1em;
 }
-.ans{
 
-}
 .button-area{
     background-color: rgb(214, 214, 214);
     align-self: center;
@@ -61,5 +61,8 @@
 }
 .numkey-row > .button0 {
     width: 8.4em;
+}
+
+.numkey-row> .AC {
     color:red;
 }
