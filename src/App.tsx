@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <HeaderBar></HeaderBar>
-      <p className="big-title">Calculator</p>
+      <p className="big-title">Simple Operation Calculator</p>
       <Calculator></Calculator>
       <FooterBar></FooterBar>
     </div>

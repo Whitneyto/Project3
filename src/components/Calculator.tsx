@@ -1,4 +1,5 @@
 import "../assets/stylesheet/calculator.css";
+
 import  { useState } from "react";
 import { ButtonNumInput } from "./ButtonNumInput";
 
@@ -12,6 +13,7 @@ export function Calculator(): JSX.Element {
   const [ans, setAns] = useState<string>("");
   const [input, setInput] = useState<string>("");
   return (
+    <div className = "body1">
     <div className="calculator">
       <div className="box-container">
         <div className="ans-screen">
@@ -25,6 +27,7 @@ export function Calculator(): JSX.Element {
           ></ButtonNumInput>
         </div>
       </div>
+    </div>
     </div>
   );
 }
