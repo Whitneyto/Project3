@@ -11,13 +11,13 @@ export function HeaderBar(): JSX.Element {
                     <a className="nav-link" href="https://whitneyto.github.io/FirstProject/">Home</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="#">Projects</a>
+                    <a className="nav-link" href="https://whitneyto.github.io/FirstProject/index.html#block-proj">Projects</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="#">About</a>
+                    <a className="nav-link" href="https://whitneyto.github.io/FirstProject/about.html">About</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="#">Contact</a>
+                    <a className="nav-link" href="https://whitneyto.github.io/FirstProject/contact.html">Contact</a>
                 </li>
             </ul>
         </nav>
