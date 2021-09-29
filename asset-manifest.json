@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Project3/static/css/main.d3413c7c.chunk.css",
-    "main.js": "/Project3/static/js/main.7b0e7bdf.chunk.js",
-    "main.js.map": "/Project3/static/js/main.7b0e7bdf.chunk.js.map",
-    "runtime-main.js": "/Project3/static/js/runtime-main.f52301cc.js",
-    "runtime-main.js.map": "/Project3/static/js/runtime-main.f52301cc.js.map",
-    "static/js/2.ba74d0df.chunk.js": "/Project3/static/js/2.ba74d0df.chunk.js",
-    "static/js/2.ba74d0df.chunk.js.map": "/Project3/static/js/2.ba74d0df.chunk.js.map",
-    "static/js/3.cabaa762.chunk.js": "/Project3/static/js/3.cabaa762.chunk.js",
-    "static/js/3.cabaa762.chunk.js.map": "/Project3/static/js/3.cabaa762.chunk.js.map",
+    "main.css": "/Project3/static/css/main.a29eb024.chunk.css",
+    "main.js": "/Project3/static/js/main.ad627a4f.chunk.js",
+    "main.js.map": "/Project3/static/js/main.ad627a4f.chunk.js.map",
+    "runtime-main.js": "/Project3/static/js/runtime-main.b4dcaca3.js",
+    "runtime-main.js.map": "/Project3/static/js/runtime-main.b4dcaca3.js.map",
+    "static/js/2.b00a7ecd.chunk.js": "/Project3/static/js/2.b00a7ecd.chunk.js",
+    "static/js/2.b00a7ecd.chunk.js.map": "/Project3/static/js/2.b00a7ecd.chunk.js.map",
+    "static/js/3.95e08a9d.chunk.js": "/Project3/static/js/3.95e08a9d.chunk.js",
+    "static/js/3.95e08a9d.chunk.js.map": "/Project3/static/js/3.95e08a9d.chunk.js.map",
     "index.html": "/Project3/index.html",
-    "static/css/main.d3413c7c.chunk.css.map": "/Project3/static/css/main.d3413c7c.chunk.css.map",
-    "static/js/2.ba74d0df.chunk.js.LICENSE.txt": "/Project3/static/js/2.ba74d0df.chunk.js.LICENSE.txt",
-    "static/media/logo.d78796cc.png": "/Project3/static/media/logo.d78796cc.png"
+    "static/css/main.a29eb024.chunk.css.map": "/Project3/static/css/main.a29eb024.chunk.css.map",
+    "static/js/2.b00a7ecd.chunk.js.LICENSE.txt": "/Project3/static/js/2.b00a7ecd.chunk.js.LICENSE.txt",
+    "static/media/logo.d78796cc.png": "/Project3/static/media/logo.d78796cc.png",
+    "static/media/calculator.css": "/Project3/static/media/math.323af9ec.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f52301cc.js",
-    "static/js/2.ba74d0df.chunk.js",
-    "static/css/main.d3413c7c.chunk.css",
-    "static/js/main.7b0e7bdf.chunk.js"
+    "static/js/runtime-main.b4dcaca3.js",
+    "static/js/2.b00a7ecd.chunk.js",
+    "static/css/main.a29eb024.chunk.css",
+    "static/js/main.ad627a4f.chunk.js"
   ]
 }
