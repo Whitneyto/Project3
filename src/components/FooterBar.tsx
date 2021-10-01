@@ -44,10 +44,7 @@ export function FooterBar(): JSX.Element {
                         <a className="footer-link" href="https://whitneyto.github.io/Project3/">Calculator</a>
                     </li>
                     <li className="row-item">
-                        <a className="footer-link" href="#"> Project 3</a>
-                    </li>
-                    <li className="row-item">
-                        <a className="footer-link" href="#">Project 4</a>
+                        <a className="footer-link" href="https://whitneyto.github.io/Project4/">Weather Forecast</a>
                     </li>
                 </ul>
             </div>
